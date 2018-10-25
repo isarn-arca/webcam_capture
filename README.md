@@ -1,9 +1,8 @@
 # webcam_capture_MPlayer
 
 //selecionamos el dispositivo
-.............................
-$ ls -ltr /dev/video* 
-.............................
+'$ ls -ltr /dev/video*'
+
 
 //Instalamos el MPlayer (capturador de imagenes y videos)
 .............................
