@@ -1,6 +1,7 @@
 # webcam_capture_MPlayer
 
 **Selecionamos el dispositivo**
+`bash`
 `$ ls -ltr /dev/video*`
 
 
