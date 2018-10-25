@@ -1,9 +1,8 @@
 # webcam_capture_MPlayer
 
 **Selecionamos el dispositivo**
-```bash
-$ ls -ltr /dev/video*
-```
+
+`$ ls -ltr /dev/video*`
 
 
 **Instalamos el MPlayer (capturador de imagenes y videos)**
